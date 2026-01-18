@@ -582,5 +582,3 @@ npm run build:android
 **Without these, OAuth will NOT work in production!**
 
 ---
-
-**Ready to build?** Run `npm run build:android` to create your production APK! 🚀
